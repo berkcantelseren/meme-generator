@@ -8,10 +8,13 @@ A simple meme generator built using **React**, `useState`, `useEffect`, and the 
 - Generates a new random meme image on button click
 - Responsive design for better user experience
 
+---
+
 *Example meme generated with this website.*
 
 ![Home](src/assets/lock-in.png)
 
+---
 
 ## 🚀 Technologies Used
 - React (useState, useEffect)
